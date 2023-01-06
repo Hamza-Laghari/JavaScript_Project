@@ -69,7 +69,11 @@ button {
 p{
     color: antiquewhite;
 }
+h4{
+    color: aliceblue;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
 #intro {
-  color: lightblue
   font-family: 'Lucida Sans Regular', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
