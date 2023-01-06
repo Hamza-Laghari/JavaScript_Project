@@ -16,5 +16,5 @@ function save() {
     count = 0
 }
 function reset(){
-    saveEl.textContent = "Previous enteries Deleted"
+    saveEl.textContent = "Previous enteries Deleted! Refresh the page."
 }
